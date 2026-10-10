@@ -1,4 +1,5 @@
-## Hi there 👋
+## tech designer
+This is my first repository
 
 <!--
 **techdesignerx/techdesignerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
