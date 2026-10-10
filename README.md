@@ -1,6 +1,6 @@
 ## tech designer
-This is my first git repository
-Author: Manish Kumar
+This is my first git repository.
+Author-Manish Kumar
 
 <!--
 **techdesignerx/techdesignerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
